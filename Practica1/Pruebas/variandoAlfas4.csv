@@ -1,0 +1,28 @@
+Geométrica
+Alpha|Peor distancia|Distancia media|Mejor distancia|Veces que se repite el optimo|Relacion de optimos/totales
+0,99|3224|2527,43|2300|6|0,06
+0,98|3167|2592,13|2300|5|0,05
+0,88|3813|2993,4|2310|1|0,01
+0,77|4586|3324,75|2478|1|0,01
+0,66|4752|3653,42|2475|1|0,01
+0,55|5048|3876,86|2772|1|0,01
+0,2|6102|4488,4|2690|1|0,01
+0,001|7082|5116,49|3447|1|0,01
+
+
+
+Logarítmica
+Alpha|Peor distancia|Distancia media|Mejor distancia|Veces que se repite el optimo|Relacion de optimos/totales
+0,02|2944|2219,6|1481|2|0,02
+0,03|2376|1869,72|1481|17|0,17
+0,04|2636|1844,9|1481|19|0,19
+0,06|2492|1844,84|1481|14|0,14
+
+
+Lineal
+Alpha|Peor distancia|Distancia media|Mejor distancia|Veces que se repite el optimo|Relacion de optimos/totales
+0,1|9346|6908,66|4425|1|0,01
+0,3|9018|6446,17|4232|1|0,01
+0,5|8050|5888,2|3488|1|0,01
+0,8|6574|4534,66|2771|1|0,01
+0,9|5043|3779,01|2597|1|0,01

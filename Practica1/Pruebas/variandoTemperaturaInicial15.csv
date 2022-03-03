@@ -1,0 +1,8 @@
+Temperatura inicial|Peor distancia|Distancia media|Mejor distancia|Veces que se repite el optimo|Relacion de optimos/totales
+5|3502|2476,521|1875|1|0,001
+10|3511|2482,165|1830|1|0,001
+15|3911|2463,109|1767|2|0,002
+20|3328|2451,047|1830|1|0,001
+25|3390|2451,375|1767|2|0,002
+100|3212|2434,016|1819|1|0,001
+1000|3220|2370,329|1767|4|0,004
