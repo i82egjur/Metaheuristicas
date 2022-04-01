@@ -90,6 +90,7 @@ def ejecutar(pesos,precios, parametros):
         while peso < pesoMax and objetos:
             objeto = objetos[random.randint(0, len(objetos) - 1)]
             peso += pesos[objeto]
+            # Descomentar para obtener soluciones válidas de primera mano
            # if peso <= pesoMax:
             #    solucion.append(objeto)
              #   objetos.remove(objeto)
